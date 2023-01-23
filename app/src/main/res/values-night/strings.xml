@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="open_dialog">Open Dialog</string>
+    <string name="complete_profile">Complete Profile</string>
+    <string name="text_complete_profile_subtitle">Please Complete the profile to get 100 percentage reachability!</string>
+    <string name="complete">Complete</string>
+    <string name="_65">65%</string>
+</resources>
